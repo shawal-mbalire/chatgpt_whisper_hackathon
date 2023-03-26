@@ -1,0 +1,4 @@
+pywhisper
+streamlit
+redis
+
